@@ -1,4 +1,4 @@
-package nl.hva.testworkshop;
+package nl.project.programming;
 
 import java.util.Scanner;
 
